@@ -1,6 +1,6 @@
 <!-- Animated typing header — edit the "lines=" part (separate lines with ; and use + for spaces) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Senior+Android+Engineer+%40+Times+Internet;Kotlin+%7C+Jetpack+Compose+%7C+RxJava;9%2B+Years+Building+Mobile+Apps;Open+to+Senior+%26+Lead+Android+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Senior+Android+Engineer+%40+Times+Internet;Kotlin+%7C+Jetpack+Compose+%7C+KMM;9%2B+Years+Building+Mobile+Apps;Open+to+Senior+%26+Lead+Android+Roles" alt="Typing SVG" />
 </p>
 
 ---
